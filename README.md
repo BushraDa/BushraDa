@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Bushra Daoud
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning PHP/Laravel
+- 🌱 I’m currently Working as .Net Developer
 - 📫 How to reach me boushra.m.da@gmail.com
 
 <!---
